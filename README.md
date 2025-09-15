@@ -18,7 +18,7 @@ Berikut ini adalah tampilan menu awal pada saat program dijalankan.
 
 Jika pengguna memilih menu nomor 1, pengguna akan diminta untuk menginput Id Kursus, Nama Kursus, Nama Pengajar, dan Durasi untuk kursus baru. Setelah itu, jika berhasil akan ada pesan bahwa kursus baru berhasil ditambahkan.
 
-<img width="858" height="332" alt="Screenshot 2025-09-15 112426" src="https://github.com/user-attachments/assets/c41d3d1a-292e-4159-8349-adefc877330d" />
+<img width="858" height="332" alt="Screenshot 2025-09-15 112426" src="https://github.com/user-attachments/assets/371f36eb-ecd9-40f0-b0bb-c33f79e2cfbb" />
 
 Lalu, pengguna dapat melihat daftar kursus yang ada pada program dengan memilih menu nomor 2, program akan menampilkan informasi kursus yang ada, seperti Id Kursus, Nama Kursus, Nama Pengajar serta Durasi Kursus. Namun, jika belum ada data kursus baru yang dimasukkan, akan muncul pesan bahwa belum ada kursus.
 
