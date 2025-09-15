@@ -22,7 +22,7 @@ Jika pengguna memilih menu nomor 1, pengguna akan diminta untuk menginput Id Kur
 
 Lalu, pengguna dapat melihat daftar kursus yang ada pada program dengan memilih menu nomor 2, program akan menampilkan informasi kursus yang ada, seperti Id Kursus, Nama Kursus, Nama Pengajar serta Durasi Kursus. Namun, jika belum ada data kursus baru yang dimasukkan, akan muncul pesan bahwa belum ada kursus.
 
-<img width="585" height="343" alt="Screenshot 2025-09-15 112439" src="https://github.com/user-attachments/assets/92bd3463-0b2d-456e-9335-f1c93274490f" />
+<img width="759" height="361" alt="Screenshot 2025-09-15 112605" src="https://github.com/user-attachments/assets/72329145-0d5a-4cab-b716-18440fcf84c3" />
 
 Selanjutnya, pengguna dapat mengubah informasi terkait Kursus dengan memilih menu nomor 3. Pengguna akan diminta untuk mengubah informasi terkait kursus. Jika dikosongkan, maka data Kursus tidak akan diubah. Setelah diubah, akan muncul pesan bahwa data kursus berhasil diperbarui
 
