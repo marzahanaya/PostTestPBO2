@@ -7,7 +7,7 @@ Nama : Marza Hanaya Melodya Goga
 NIM : 2409116103
 
 ### Deskripsi Program
-Program Sistem Manajemen Kursus Online ini dibuat untuk memudahkan pengguna dalam mengelola data kursus dan peserta secara sederhana. Pengguna bisa menambahkan kursus baru, melihat daftar kursus yang tersedia, mengubah informasi kursus, serta menghapus kursus yang sudah tidak diperlukan. Program ini dibuat menggunakan bahasa pemrograman Java dan menerapkan konsep pemrograman berorientasi objek yang dipisah ke dalam 3 package: KursusMain sebagai menu utama, KursusModel untuk menyimpan struktur data kursus seperti atribut dan constructor, KursusService untuk menyimpan logika CRUD, validasi, dan pencarian.
+Program Sistem Manajemen Kursus Online ini dibuat untuk memudahkan pengguna dalam mengelola data kursus dan peserta secara sederhana. Pengguna bisa menambahkan kursus baru, melihat daftar kursus yang tersedia, mengubah informasi kursus, serta menghapus kursus yang sudah tidak diperlukan. Program ini dibuat menggunakan bahasa pemrograman Java dan menerapkan konsep pemrograman berorientasi objek dengan 3 kelas utama yang dipisah ke dalam 3 package: KursusMain sebagai menu utama, KursusModel untuk menyimpan struktur data kursus seperti atribut dan constructor, KursusService untuk menyimpan logika CRUD, validasi, dan pencarian.
 
 ### Output Program
 <img width="546" height="186" alt="Screenshot 2025-09-15 235257" src="https://github.com/user-attachments/assets/979feee1-13b2-4e75-93dc-47cc44bfc585" />
