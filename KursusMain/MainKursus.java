@@ -43,10 +43,11 @@ public class MainKursus {
                     case 3 -> service.ubahKursus();
                     case 4 -> service.hapusKursus();
                     case 5 -> service.cariKursus();
-                    case 0 -> System.out.println("Keluar. Terima kasih.");
+                    case 0 -> System.out.println("Anda Keluar. Terima kasih sudah menggunakan program ini!.");
                     default -> System.out.println("Pilihan tidak valid.");
                 }
             } while (pilih != 0);
         }
     }
+
 }
