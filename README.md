@@ -36,4 +36,4 @@ Di menu nomor 5, pengguna dapat mencari kursus dengan menginput kata kunci seper
 
 <img width="713" height="230" alt="Screenshot 2025-09-15 120343" src="https://github.com/user-attachments/assets/ddf44a54-5fea-4c63-989d-e03bb7546748" />
 
-Lalu, jika pengguna memilih menu 0 maka pengguna akan keluar dari program dan akan muncul pesan bahwa pengguna telah keluar dari program
+Lalu, jika pengguna memilih menu 0 maka pengguna akan keluar dari program dan akan muncul pesan bahwa pengguna telah keluar dari program.
